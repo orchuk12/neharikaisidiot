@@ -5,6 +5,8 @@ editor: visual
 ---
 
 ```{r}
-#testing
+# adding libraries
+library(tidyverse)
+head(mtcars)
 ```
 
