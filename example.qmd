@@ -9,7 +9,10 @@ editor: visual
 #| message: false
 #| warning: false
 
-# adding new library
+# adding libraries
+library(tidyverse)
 library(palmerpenguins)
+
+head(mtcars)
 ```
 
