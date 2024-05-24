@@ -5,6 +5,11 @@ editor: visual
 ---
 
 ```{r}
-#testing
+#| echo: true
+#| message: false
+#| warning: false
+
+# adding new library
+library(palmerpenguins)
 ```
 
